@@ -12,4 +12,6 @@ Supplementary_Tables_SIP-NanoSIMS.xlsx
 
 ### Ch. 5 Modeling Meets Microbiology: Mineral Stability Field Modeling Guides a Novel Enceladus Ocean Microbial Medium
 ```
+Supplementary_Tables_Enceladus_Medium.xlsx
+TableS5.3_Pangenome_Gene_Clusters_all.xlsx
 ```
