@@ -1,4 +1,4 @@
-<img width="468" height="51" alt="image" src="https://github.com/user-attachments/assets/8f3650ed-a8a9-40dd-a1d1-64e1ce956b66" /># Supplementary Tables
+# Supplementary table files for Ch. 2, 3, and 5 of Sabrina Elkassas's Doctoral Dissertation.
 
 ## Ch. 2 Metabolic and population profiles of active subseafloor autotrophs in young oceanic crust at deep-sea hydrothermal vents: Axial_Supplementary_Tables.xlsx
 
